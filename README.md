@@ -14,8 +14,8 @@ I add some example files here. Some may find it usefull:
 <img src="Bowling.jpg" width="500" align="center"> 
 
 ## Birthday present, Horse-Head-Bookmark.
-<img src="IMG_20230311_094118.jpg" width="500" align="center"> 
-<img src="IMG_20230311_094206.jpg" width="500" align="center"> 
-<img src="IMG_20230311_094519.jpg" width="500" align="center"> 
-<img src="IMG_20230311_095243.jpg" width="500" align="center"> 
+<img src="IMG_20230311_094118.jpg" height="150" align="center"> 
+<img src="IMG_20230311_094206.jpg" height="150" align="center"> 
+<img src="IMG_20230311_094519.jpg" height="150" align="center"> 
+<img src="IMG_20230311_095243.jpg "height="150" align="center"> 
 
