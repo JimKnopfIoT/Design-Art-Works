@@ -11,10 +11,10 @@ I add some example files here. Some may find it usefull:
 
 ## Birthday invitation Card for Bowling event.
 
-<img src="Bowling.jpg" width="500" align="center"> 
+<img src="Bowling.jpg" width="500" align="left"> 
 
 ## Birthday present, Horse-Head-Bookmark.
-<p align="center"> 
+<p align="left"> 
 <img src="IMG_20230311_094118.jpg" height="150"> 
 <img src="IMG_20230311_094206.jpg" height="150"> 
 <img src="IMG_20230311_094519.jpg" height="150"> 
