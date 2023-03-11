@@ -11,7 +11,7 @@ I add some example files here. Some may find it usefull:
 
 ## Birthday invitation Card for Bowling event.
 
-<img src="Bowling.jpg" width="500" align="left"> 
+<img src="Bowling.jpg" width="500" align="center"> 
 
 ## Birthday present, Horse-Head-Bookmark.
 <p align="left"> 
