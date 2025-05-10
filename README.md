@@ -27,3 +27,9 @@ I add some example files here. Some may find it usefull:
 <img src="IMG_20230326_210627.jpg" height="150"> 
 <img src="IMG_20230326_210601.jpg" height="150"> 
 </p>
+
+## Thank you card for retiring dentist
+<p align="left"> 
+<img src="IMG_20250427_192318.jpg" height="150"> 
+<img src="IMG_20250427_192451.jpg" height="150"> 
+</p>
