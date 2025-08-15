@@ -35,7 +35,9 @@ I add some example files here. Some may find it usefull:
 </p>
 
 ## Travel gift card, Travel-Trolley style card
-I used an Omni 1 (10 W) UV-Laser for cutting.
+I used a Commarker Omni 1 (10 W) UV-Laser for cutting.
+Travel data was printed on a DIN A4 sheet and folded to a wallet (https://www.wickelwerk.ch/2020/04/27/portemonnaie-falten/).
+
 <p align="left"> 
 <img src="IMG_20250815_153832.jpg" height="150"> 
 <img src="IMG_20250815_153914.jpg" height="150"> 
