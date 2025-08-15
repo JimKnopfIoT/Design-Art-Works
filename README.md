@@ -21,7 +21,7 @@ I add some example files here. Some may find it usefull:
 <img src="IMG_20230311_095243.jpg "height="150"> 
 </p>
 
-## Money present, Bag style Card
+## Money present, Bag style card
 <p align="left"> 
 <img src="IMG_20230326_210605.jpg" height="150"> 
 <img src="IMG_20230326_210627.jpg" height="150"> 
@@ -33,3 +33,18 @@ I add some example files here. Some may find it usefull:
 <img src="IMG_20250427_192318.jpg" height="150"> 
 <img src="IMG_20250427_192451.jpg" height="150"> 
 </p>
+
+## Travel gift card, Travel-Trolley style card
+I used an Omni 1 (10 W) UV-Laser for cutting.
+<p align="left"> 
+<img src="IMG_20250815_153832.jpg" height="150"> 
+<img src="IMG_20250815_153914.jpg" height="150"> 
+<img src="IMG_20250815_154121.jpg" height="150"> 
+</p>
+<p align="left"> 
+<img src="Inkscape-drawing.png" height="150"> 
+<img src="Bildschirmfoto vom 2025-08-15 15-33-01.jpg" height="150"> 
+<img src="Bildschirmfoto vom 2025-08-15 15-33-46.jpg" height="150"> 
+</p>
+
+
