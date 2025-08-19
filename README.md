@@ -1,13 +1,13 @@
 # Design-Art-Works
 Some design work i made. Some SVG with graphics and plotter files.
 
-I got two 3D printers (FDM and MSLA). Recently i added a Silhouette Cameo 4 cut plotter to my tool park.
+I got a 3D printer (FDM), a Silhouette Cameo 4 cut plotter and 2 Lasers in my tool park.
 
-I use Inkscape to create SVG files and also (thanks to fablabnbg/inkscape-silhouette) use the Cameo 4 for cutting from Inkscape.
+I use Inkscape to create SVG files and also (thanks to fablabnbg/inkscape-silhouette) use the Cameo 4 for cutting from Inkscape directly.
 
-Sometimes i use additional Rhino 7 for unfolding curved surfaces or something.
+Sometimes i use additional Rhino 3D for unfolding curved surfaces or something.
 
-I add some example files here. Some may find it usefull:
+I add some example files here. Someone may find it usefull:
 
 ## Birthday invitation Card for Bowling event
 
@@ -22,6 +22,7 @@ I add some example files here. Some may find it usefull:
 </p>
 
 ## Money present, Bag style card
+There are several SVG files, one for each Euro banknote. 
 <p align="left"> 
 <img src="IMG_20230326_210605.jpg" height="150"> 
 <img src="IMG_20230326_210627.jpg" height="150"> 
